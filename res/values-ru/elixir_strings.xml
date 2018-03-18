@@ -52,7 +52,7 @@
     <string name="immersive_recents_summary">Изменить вид меню \"Недавние приложения\"</string>
     <string name="immersive_recents_dialog_title">Выберите вид меню \"Недавние приложения\"</string>
     <string name="immersive_recents_default">По умолчанию</string>
-    <string name="immersive_recents_fullscreen">Полноэеранный режим</string>
+    <string name="immersive_recents_fullscreen">Полноэкранный режим</string>
     <string name="immersive_recents_statusbar">Только строка состояния</string>
     <string name="immersive_recents_navbar">Только панель навигации</string>
 
@@ -217,7 +217,7 @@
 
     <!-- Style -->
     <string name="style_title">Темы</string>
-    <string name="style_summary">Настройка зовнішннього вигляду устройства</string>
+    <string name="style_summary">Настройка внешнего вида устройства</string>
     <string name="style_global_title">Тема</string>
     <string name="style_global_entry_automatic">Автоматически (обои)</string>
     <string name="style_global_entry_light">Светлая</string>
